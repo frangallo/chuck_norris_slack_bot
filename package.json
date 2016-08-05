@@ -1,0 +1,23 @@
+{
+  "name": "norris_bot",
+  "version": "1.0.0",
+  "description": "slack bot",
+  "main": "chuck_norris.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frangallo/chuck_norris_slack_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frangallo/chuck_norris_slack_bot/issues"
+  },
+  "homepage": "https://github.com/frangallo/chuck_norris_slack_bot#readme",
+  "dependencies": {
+    "slackbots": "^0.5.1",
+    "sqlite3": "^3.1.4"
+  }
+}
